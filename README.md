@@ -228,8 +228,3 @@ Example:
 - Broadband Networks
 
 ---
-
-# Author
-YADHAV J
-B.E. Electronics and Communication Engineering (ECE)  
-Saveetha Engineering College
